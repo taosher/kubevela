@@ -20,6 +20,13 @@
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/kubevela/kubevela/badge)](https://api.securityscorecards.dev/projects/github.com/kubevela/kubevela)
 [![](https://img.shields.io/badge/KubeVela-Check%20Your%20Contribution-orange)](https://opensource.alibaba.com/contribution_leaderboard/details?projectValue=kubevela)
 
+## Get Your Own Demo on AlibabaCloud
+
+<a href="https://pre-acs.console.aliyun.com/quick-deploy?repo=taosher/kubevela&branch=master" target="_blank">
+  <img src="https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg" alt="Deploy on AlibabaCloud ACS">
+</a>
+
+
 ## Introduction
 
 KubeVela is a modern application delivery platform that makes deploying and operating applications across today's hybrid, multi-cloud environments easier, faster and more reliable.
