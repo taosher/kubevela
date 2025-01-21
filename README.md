@@ -23,7 +23,7 @@
 ## Get Your Own Demo on AlibabaCloud
 
 <a href="https://acs.console.aliyun.com/quick-deploy?repo=taosher/kubevela&branch=master" target="_blank">
-  <img src="https://img.alicdn.com/imgextra/i2/O1CN01UldHky1WerYixFapJ_!!6000000002814-2-tps-438-70.png" alt="Deploy on AlibabaCloud ACS">
+  <img src="https://img.alicdn.com/imgextra/i3/O1CN015KxwZy26JdMwbribb_!!6000000007641-55-tps-438-70.svg" width="200" alt="Deploy on AlibabaCloud ACS">
 </a>
 
 
